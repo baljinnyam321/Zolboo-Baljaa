@@ -294,7 +294,7 @@ function reveal() {
   }
 
   var ifrm = document.createElement("iframe");
-  ifrm.setAttribute("src", "Хайрт чамдаа мэндэлсэн өдрийн гал халуун мэндийг дэвшүүлье.mp4");
+  ifrm.setAttribute("src", "https://www.youtube.com/embed/c1K8bnLZxBo");
   //ifrm.style.width = `${w}px`;
   //ifrm.style.height = `${h}px`;
   ifrm.style.border = 'none';
